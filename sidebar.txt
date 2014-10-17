@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[khx:home|Door43 (khx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-khx|d43-khx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-khx/archive/master.zip|d43-khx.zip]]
+
+**Recent Changes**
+{{changes>ns = khx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/khx|Ethnologue data]]
+
